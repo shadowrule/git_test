@@ -1,0 +1,1 @@
+This is Shadowrule's’s first git project!
